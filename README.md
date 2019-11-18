@@ -1,9 +1,9 @@
-Bitcoin Core integration/staging tree
-=====================================
+Bitcoin.WTF Core integration/staging tree
+=========================================
 
-https://bitcoincore.org
+https://bitcoin.wtf
 
-What is Bitcoin?
+What is Bitcoin.WTF?
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
